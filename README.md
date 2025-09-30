@@ -4,10 +4,6 @@ A modern, flexible, and customizable Android Jetpack Compose component for displ
 
 ---
 
-![LinkPreviewCard Example](docs/screenshot.png)
-
----
-
 ## Features
 - Subcompose pattern for flexible UI
 - OpenGraph and Meta tags parsing
