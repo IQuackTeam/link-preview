@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sample_urls">
+        <!-- Социальные сети -->
+        <item>https://www.linkedin.com</item>
+        <item>https://www.tiktok.com</item>
+        <item>https://www.pinterest.com</item>
+        <item>https://www.reddit.com</item>
+        <item>https://www.tumblr.com</item>
+        <item>https://www.snapchat.com</item>
+
+        <!-- Видео и стриминг -->
+        <item>https://www.youtube.com</item>
+        <item>https://vimeo.com</item>
+        <item>https://www.twitch.tv</item>
+        <item>https://dailymotion.com</item>
+
+        <!-- Новости и СМИ -->
+        <item>https://www.bbc.com</item>
+        <item>https://www.cnn.com</item>
+        <item>https://www.nytimes.com</item>
+        <item>https://www.theguardian.com</item>
+        <item>https://www.washingtonpost.com</item>
+        <item>https://www.forbes.com</item>
+        <item>https://www.bloomberg.com</item>
+        <item>https://www.reuters.com</item>
+        <item>https://www.aljazeera.com</item>
+        <item>https://www.foxnews.com</item>
+
+        <!-- Технологии -->
+        <item>https://techcrunch.com</item>
+        <item>https://www.theverge.com</item>
+        <item>https://www.wired.com</item>
+        <item>https://arstechnica.com</item>
+        <item>https://www.cnet.com</item>
+        <item>https://habr.com</item>
+        <item>https://vc.ru</item>
+        <item>https://dtf.ru</item>
+
+        <!-- Музыка -->
+        <item>https://music.apple.com</item>
+        <item>https://soundcloud.com</item>
+        <item>https://bandcamp.com</item>
+        <item>https://tidal.com</item>
+        <item>https://zaycev.net</item>
+        <item>https://muzofond.fm</item>
+
+        <!-- Маркетплейсы -->
+        <item>https://www.ebay.com</item>
+        <item>https://www.etsy.com</item>
+        <item>https://www.alibaba.com</item>
+        <item>https://www.walmart.com</item>
+        <item>https://ozon.ru</item>
+        <item>https://wildberries.ru</item>
+        <item>https://aliexpress.ru</item>
+        <item>https://market.yandex.ru</item>
+
+        <!-- Образование -->
+        <item>https://www.wikipedia.org</item>
+        <item>https://www.khanacademy.org</item>
+        <item>https://www.coursera.org</item>
+        <item>https://www.udemy.com</item>
+        <item>https://www.edx.org</item>
+        <item>https://stepik.org</item>
+
+        <!-- Разное -->
+        <item>https://www.quora.com</item>
+        <item>https://www.medium.com</item>
+        <item>https://www.producthunt.com</item>
+        <item>https://www.imdb.com</item>
+        <item>https://dribbble.com</item>
+        <item>https://rutube.ru</item>
+        <item>https://ok.ru</item>
+        <item>https://vk.com</item>
+    </string-array>
+
+
+</resources>
