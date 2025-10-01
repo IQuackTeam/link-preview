@@ -15,12 +15,12 @@ A modern, flexible, and customizable Android Jetpack Compose component for displ
 ## Installation
 
 Add the dependency to your `build.gradle.kts`:
-
 ```kotlin
 dependencies {
-    implementation("ru.iquack.linkpreview:library:<latest-version>")
+    implementation("ru.iquack:link-preview:VERSION")
 }
 ```
+You can check the current version here: [Maven Central](https://central.sonatype.com/artifact/ru.iquack/link-preview/overview)
 
 ## Quick Start
 
